@@ -18,14 +18,16 @@ Dependencies:
     trajectory_distance 1.0
     mpi4py 3.0.2
 
-Parameter:
+Parameters:
     
-    suez_poly: geopandas [dataframe](https://github.com/gabrielfuenmar/suez-canal-transits/blob/master/1_suez_canal_polygons.png) with Suez Canal polygons
+    suez_poly: geopandas dataframe with Suez Canal polygons
     vessels_all: pandas dataframe of vessel specs. Not at the respository due to    supplier restrictions.
     routes: geopandas dataframe with Suez routes through the Canal.
-    access_routes: geopandas [dataframe](https://github.com/gabrielfuenmar/suez-canal-transits/blob/master/3_canal_access.png) with Suez  and Said access routes.
+    access_routes: geopandas dataframe with Suez  and Said access routes.
     
-    
+[suez_poly](https://github.com/gabrielfuenmar/suez-canal-transits/blob/master/1_suez_canal_polygons.png) figure
+[access_routes](https://github.com/gabrielfuenmar/suez-canal-transits/blob/master/3_canal_access.png) figure
+
 Returns:
   
     CSV file with transits information.
