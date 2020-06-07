@@ -27,11 +27,11 @@ Parameters:
 
 Suez poly figure
 
-[!alt text](https://github.com/gabrielfuenmar/suez-canal-transits/blob/master/1_suez_canal_polygons.png)
+![alt text](https://github.com/gabrielfuenmar/suez-canal-transits/blob/master/1_suez_canal_polygons.png)
 
 Access route figure
 
-[!alt text](https://github.com/gabrielfuenmar/suez-canal-transits/blob/master/3_canal_access.png) figure
+![alt text](https://github.com/gabrielfuenmar/suez-canal-transits/blob/master/3_canal_access.png) figure
 
 Returns:
   
