@@ -2,7 +2,7 @@
 Generates Suez Canal Transit information from raw AIS data from January 2013 to June, 2019.
 [Pseudocode](https://github.com/gabrielfuenmar/suez-canal-transits/blob/master/pseudo_suez.pdf) available at the repository.
 
-Distributed computing setting under Sun Grid manager deployed in a Round Robin configuration see [suez_mpi.sh](https://github.com/gabrielfuenmar/suez-canal-transits/blob/master/suez_mpi.sh) for Sun Grid setting.
+Distributed computing setting under Sun Grid manager deployed in a Round Robin configuration see [suez_mpi.sh](https://github.com/gabrielfuenmar/suez-canal-transits/blob/master/suez_mpi.sh).
 
 MPI setting recognizes any distributed enviroment and the resoruces allocated to the app.
 
