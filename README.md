@@ -21,7 +21,7 @@ Dependencies:
 Parameters:
     
     suez_poly: geopandas dataframe with Suez Canal polygons
-    vessels_all: pandas dataframe of vessel specs. Not at the respository due to    supplier restrictions.
+    vessels_all: pandas dataframe of vessel specs. Not at the respository due to supplier restrictions.
     routes: geopandas dataframe with Suez routes through the Canal.
     access_routes: geopandas dataframe with Suez  and Said access routes.
 
