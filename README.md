@@ -40,4 +40,7 @@ Returns:
 The information is build per vessel and is the result of a sequence of tests that validates that a transit has enough information to be throughly analized. Refer to [published paper](https://ieeexplore.ieee.org/document/9309882) for a description.
 
 
+https://user-images.githubusercontent.com/45942967/117956664-8dd47f00-b319-11eb-97f1-a703abc5ee3e.mp4
+
+
 Credits: Gabriel Fuentes Lezcano
