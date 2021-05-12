@@ -37,7 +37,7 @@ Returns:
   
     CSV file with transits information.
 
-The information is build per vessel and is the result of a sequence of test that validates that a transit has enough information to be throughly analized. Refer to ##PAPER when published### section 3 for a description.
+The information is build per vessel and is the result of a sequence of tests that validates that a transit has enough information to be throughly analized. Refer to [published paper](https://ieeexplore.ieee.org/document/9309882) for a description.
 
 
 Credits: Gabriel Fuentes Lezcano
